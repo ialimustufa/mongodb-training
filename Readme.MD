@@ -1,3 +1,3 @@
 # Learn mongoDB with me.
 
-## Day 1 of Day 5
+## Adding all the resources by the end of this week!
